@@ -29,7 +29,7 @@
   
     <div class="row">
         <div class="col-lg-6">
-          <h3>Daftar Mahasiswa</h3>
+          <h3>Daftar Mahasiswa Dan Budi</h3>
           <ul class="list-group">
             <?php foreach($mhs as $mhs ) : ?>
               <li class="list-group-item">
